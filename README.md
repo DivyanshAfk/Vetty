@@ -1,15 +1,16 @@
 # Vetty
 Vetty Assignment - 1
---through terminal
-cloned the repository by using git clone
-cd'ed into the directory
-added hello.txt via vim
-terminal code:
 
-git clone "repo link"
-cd practical-test
-vim hello.txt
-git add hello.txt
-git commit -m "added hello.txt"
-git checkout practical-test
-git push origin practical-test
+--through terminal <br />
+cloned the repository by using git clone <br />
+cd'ed into the directory <br />
+added hello.txt via vim <br />
+terminal code: <br />
+
+git clone "repo link" <br />
+cd practical-test <br />
+vim hello.txt <br />
+git add hello.txt <br />
+git commit -m "added hello.txt" <br />
+git checkout practical-test <br />
+git push origin practical-test <br />
